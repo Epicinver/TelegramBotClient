@@ -8,4 +8,4 @@ This is not an API wrapper, but instead a new application to access Telegram bot
 ### Contribute
 Use pull requests or issues to contribute or collaborate :)
 
-dev branch is not stable so pls compile from main branch ty
+dev branch (master) is not stable so pls compile from main branch ty
